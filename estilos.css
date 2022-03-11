@@ -1,13 +1,28 @@
-h1,p,i,b {
-    color: blue;
-    font-size: 20px;
+body{
+    margin: 0px;
     font-family: monospace;
 }
-
-.titulo{
-    color: red;
+.header {
+    width: 100%;
+    background-color :black;
+    border-bottom: 5px color blue solid;
 }
 
-#paragrafo{
+h1 {
     color: aqua;
+   margin: 0px;
+}
+
+.header .container {
+    width: 70%;
+    display: flex;
+}
+
+.navbar{
+    width: 500px;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    color: orange;
+    display: flex
 }
