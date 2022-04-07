@@ -9,6 +9,10 @@ body{
     border-bottom: 3px solid #32b9cd;
     align-items: center;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> e24231ebedb6aa72f800fc53416641e2f8ddd625
 .titulo {
     color: #32b9cd;
     margin: 0px;
@@ -19,11 +23,19 @@ body{
     margin: auto;
     display: flex;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> e24231ebedb6aa72f800fc53416641e2f8ddd625
 .header .container {
     height: 100%;
     justify-content: space-between;
     align-items: center;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> e24231ebedb6aa72f800fc53416641e2f8ddd625
 .navbar{
     width: 500px;
     list-style: none;
@@ -33,6 +45,10 @@ body{
     display: flex;
     padding: 0px;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> e24231ebedb6aa72f800fc53416641e2f8ddd625
 p {
     color: aliceblue;
 }
@@ -64,6 +80,7 @@ p {
     border-radius: 6px;
     padding: 10px 15px;
 }
+<<<<<<< HEAD
 .btn2 {
     font-family: monospace;
     margin-top: 10px;
@@ -75,6 +92,8 @@ p {
     border-radius: 6px;
     padding: 10px 15px;
 }
+=======
+>>>>>>> e24231ebedb6aa72f800fc53416641e2f8ddd625
 input {
     height: 30px;
     border: 2px solid #e75459;
@@ -82,6 +101,7 @@ input {
 }
 .banner .card {
     color: #e75459;
+<<<<<<< HEAD
 }
 .botoes {
     width: 50%;
@@ -89,4 +109,6 @@ input {
     flex-direction: row;
     margin: 15px;
     justify-content: space-between;
+=======
+>>>>>>> e24231ebedb6aa72f800fc53416641e2f8ddd625
 }
